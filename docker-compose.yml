@@ -3,7 +3,7 @@ version: '3.8'
 services:
   # Base de données PostgreSQL
   db:
-    image: postgres:14.7-alpine
+    image: postgres:14.20-alpine
     container_name: fastapi_db
     environment:
       POSTGRES_USER: user
