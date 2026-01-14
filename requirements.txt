@@ -17,6 +17,6 @@ passlib[bcrypt]==1.7.4
 python-multipart==0.0.5
 
 # Tests
-pytest==7.2.1
+pytest==7.4.4
 pytest-asyncio==0.20.3
 httpx==0.23.3
