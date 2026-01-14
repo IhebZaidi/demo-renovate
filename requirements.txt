@@ -3,7 +3,7 @@ fastapi==0.95.0
 uvicorn[standard]==0.20.0
 
 # Base de données
-sqlalchemy==1.4.46
+sqlalchemy==2.0.45
 psycopg2-binary==2.9.5
 
 # Validation et sérialisation
