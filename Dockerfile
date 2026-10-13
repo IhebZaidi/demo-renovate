@@ -1,5 +1,5 @@
 # Image de base avec version ancienne volontairement
-FROM python:3.9.16-slim
+FROM python:3.15.0-slim
 
 # Définir le répertoire de travail
 WORKDIR /app
